@@ -1,6 +1,6 @@
 {
   "name": "cm-math-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "custom js library for math functions & finance calculations",
   "main": "index.js",
   "scripts": {
