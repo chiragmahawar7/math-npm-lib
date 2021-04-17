@@ -3,7 +3,7 @@
 To run, follow these steps-
 * Open your preferred terminal (or command prompt) and install the npm package by runnning the code:
  ```
- npm install -g math-lib
+ npm install -g cm-math-lib
  ```
  
 * After installation is complete, use the library functions in your project as given below-
